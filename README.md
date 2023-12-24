@@ -1,6 +1,11 @@
 # SABM Pricing Game
 This is the source code for paper "'Guinea Pig Trials' Utilizing GPT: A Novel Smart Agent-Based Modeling Approach for Studying Firm Competition and Collusion".
 
+## Smart Agent-Based Modeling (SABM)
+We now further propose a simulation framework based on large language model. Please see the work at **[Smart Agent-Based Modeling: On the Use of Large Language Models in Computer Simulations](https://arxiv.org/abs/2311.06330)**.
+
+The updated code for SABM Pricing Game is available at: https://github.com/Roihn/SABM.
+
 ## Setup
 - Main Files
   - SABM_Economics_Main.py (Program Entry)
@@ -17,6 +22,7 @@ This is the source code for paper "'Guinea Pig Trials' Utilizing GPT: A Novel Sm
   - Figure_Plot_from_CSV.py (Result Visualization)
 
 ## Citation
+If you find our work useful, please give us credit by citing:
 ```
 @article{han2023guinea,
   title={"Guinea Pig Trials" Utilizing GPT: A Novel Smart Agent-Based Modeling Approach for Studying Firm Competition and Collusion},
